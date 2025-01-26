@@ -7,7 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-                                  
+            <%=request.getAttribute("key1") %>
+            <%=request.getAttribute("key2") %>                        
                           
 </body>
 </html>
